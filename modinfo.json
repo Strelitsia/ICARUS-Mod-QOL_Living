@@ -1,0 +1,15 @@
+{
+  "mods": [
+    {
+      "name": "QOL Living",
+      "author": "Strelitsia_",
+      "version": "1.0",
+      "compatibility": "w187",
+      "description": "Makes your playtrough very relaxed by making some quality of life changes, such as increasing some stack and slot sizes.",
+      "files": {
+        "pak": "https://github.com/Strelitsia/ICARUS-Mod-QOL_Living/releases/tag/v1.0.0"
+      },
+      "readmeURL": "https://github.com/Strelitsia/ICARUS-Mod-QOL_Living/blob/main/README.md"
+    }
+  ]
+}
