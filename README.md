@@ -13,3 +13,4 @@ Features:
 - cheaper crafting of some items
 - see character level past 60
 - Building strength on all tiers to not take damage
+- etc...
